@@ -1,7 +1,11 @@
-def main():
-    # ... existing code ...
-    # tests/test_kmeans.py
-    # ... existing code ...
+from ruff import lint
+import sys
 
-    # Removed the invalid Python syntax
-    # ```python
+def main():
+    try:
+        lint.run(sys.argv[1:])
+    except SystemExit as e:
+        sys.exit(e.code)
+
+if __name__ == '__main__':
+    main()
