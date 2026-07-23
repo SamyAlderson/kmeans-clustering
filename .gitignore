@@ -1,15 +1,1318 @@
-__pycache__/
+# .gitignore
+
+/.idea/
+/__pycache__/
 *.pyc
-.pytest_cache/
-.env
-*.egg-info/
-dist/
-build/
-.venv/
+*.class
+*.log
 node_modules/
-target/
-bin/
-obj/
+coverage.xml
+coverage/
+
+# Local VCS ignore
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ignore IDE-generated files
+*.iml
+*.ipr
+*.iws
+*.cproject
+*.project
+
+# Ignore IDE temporary files
+*.tmp
+*.tmp/
+*.tmp/
+*.tmp/
+
+# Ignore IDE backup files
+*.bak
+*.BAK
+*.backup
+
+# Ignore IDE generated files
+*.swp
+*.swo
+
+# Ignore IDE generated files
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE generated files
+*.class
+*.class/
+
+# Ignore IDE generated files
 *.o
+*.obj
+*.lo
+*.la
+*.a
+
+# Ignore IDE generated files
 *.so
-*.dylib/
+*.dylib
+*.dll
+
+# Ignore IDE generated files
+*.exe
+
+# Ignore IDE generated files
+*.jar
+*.war
+*.ear
+
+# Ignore IDE generated files
+*.zip
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# Ignore IDE generated files
+*.zip
+*.tar
+*.gz
+*.bz2
+*.xz
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist-info
+*.dist
+
+# Ignore IDE generated files
+*.egg-info
+*.egg
+*.whl
+*.dist
