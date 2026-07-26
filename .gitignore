@@ -1,31 +1,30 @@
-# ignore .env files
-.env
-
-# ignore node_modules
-node_modules/
-
-# ignore venv
-venv/
-
-# ignore build artifacts
-dist/
-build/
-
-# ignore IDE files
-.idea/
-.vscode/
+# .gitignore
 
 # ignore generated files
 __pycache__/
 *.pyc
 *.pyo
 
-# ignore coverage data
+# ignore IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.sln.docstates
+
+# ignore build and deployment files
+build/
+dist/
+*.egg-info
 coverage.xml
 coverage.html
+coverage.json
 
-# ignore flake8 cache
-.flake8
-
-# ignore ruff cache
-.ruffcache
+# ignore other stuff
+*.log
+*.tmp
+*.bak
+*.swp
+*.pyd
+*.so
+*.dll
