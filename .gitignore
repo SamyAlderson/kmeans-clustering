@@ -1,14 +1,30 @@
-# .gitignore
+# Ignore node_modules and __pycache__
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+*.cache
+*.env
 
-# ignore ruff cache
-.cache/ruff
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.cproject
+*.project
+*.vscode/
 
-# ignore ruff logs
-.cache/ruff/logs
-
-# ignore ruff config
-.cache/ruff/config
-
-# ignore ruff cache and logs on windows
-$:/cache/ruff
-$:/cache/ruff/logs
+# Ignore build and deploy files
+dist/
+build/
+deploy/
+*.egg-info/
+*.whl
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.tar.zst
