@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='kmeans-clustering',
-    version='1.0',
+    version='1.1',  # bumped version
     packages=find_packages('src'),
     package_dir={'': 'src'},
     description='General kmeans clustering library',
@@ -22,4 +22,9 @@ setup(
         'Programming Language :: Python :: 3.10',
     ],
     keywords='kmeans clustering',
+    python_requires='>=3.7',  # specify minimum python version
+    install_requires=[],  # add any dependencies here
+    extras_require={
+        'dev': ['pytest', 'flake8'],  # dev dependencies
+    },
 )
